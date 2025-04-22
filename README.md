@@ -31,8 +31,7 @@ Food_drive_project-main/ ├── app.py # Flask application for deployment ├
 ## 🚀 How to Run
 
 1. **Clone the repository**  
-   git clone https://github.com/your-username/Food_drive_project.git
-   cd Food_drive_project-main
+   git clone https://github.com/Singla2190/Edmonton-Food-Drive-optimization-.git
 
 2. **Install dependencies**
 Make sure you have Python 3.7+ and run:
